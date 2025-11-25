@@ -12,7 +12,7 @@ Talk with Demeter and Hades, travel between realms, and try to survive the year 
 ## Play the Game
 
 Web version (GitHub Pages):  
-https://WisteriaCh.github.io/Grain-and-Grave/
+https://wisteriach.github.io/Grain-and-Grave/
 
 ## How to Play
 
